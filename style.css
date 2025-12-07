@@ -1,0 +1,26 @@
+.main{
+    align-items: center;
+    border: solid 1px black;
+    flex-direction: column;
+}
+body{
+    background-color: lightgrey;
+}
+.buttonStyle{
+    border-radius: 50%;
+    background-color: lightskyblue;
+    color: white;
+    margin: 5px;
+    padding: 5px;
+    height: 30px;
+    width: 30px;
+}
+div{
+    display: flex;
+  
+}
+.action{
+   
+    flex-direction: row; 
+}
+
